@@ -57,3 +57,9 @@ The `htmldemocodes/` directory contains HTML files that demonstrate various CSS 
 ## License
 
 This project is licensed under the MIT License.
+
+## Sample
+![image](https://github.com/user-attachments/assets/717be603-01ed-4cd6-8b8e-7e3fbea94b1e)
+![image](https://github.com/user-attachments/assets/3f9baf5d-5f3e-493f-a5e0-3fa4000e3101)
+
+
